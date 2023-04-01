@@ -33,7 +33,7 @@ NLP is not my strong suit, let me know if I'm doing something wrong by creating 
 
 - [Reward model dataset](./kochatgpt/mschatgpt_2_RM.jsonl) # 397
 
-- [PPO dataset](./kochatgpt/mschatgpt_3_PPO.jsonl) # 269
+- [PPO dataset](./kochatgpt/mschatgpt_3_PPO.jsonl) # 1580
 
 4. chatdoctor https://github.com/Kent0n-Li/ChatDoctor/
 
